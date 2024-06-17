@@ -30,13 +30,20 @@ Answer the following questions based on your understanding of the installation a
 4. Command Palette:
    - What is the Command Palette in VS Code, and how can it be accessed? Provide examples of common tasks that can be performed using the Command Palette.
    
+*The command pallete is a search bar that acts as a central hub for all functionalities within the editor which alllows you to quickly access various features commands and settings.
+To access go to the menu click view then click Command palette or simply Ctrl + Shift + P
+Using the command palette you can opena a file,format code,open a new terminal,install new extensions and also version control
 
 5. Extensions in VS Code:
    - Discuss the role of extensions in VS Code. How can users find, install, and manage extensions? Provide examples of essential extensions for web development.
 
+*Extensions make coding easier by instaliing neccesary requirments needed to run programs also enabling the user to interact with vs code condusively.To find extensions on the activity bar click on the extensions icon  and on the side bar search and install your recommended and required extensions
+
 6. Integrated Terminal:
    - Describe how to open and use the integrated terminal in VS Code. What are the advantages of using the integrated terminal compared to an external terminal?
-   
+
+*To open go to the menu icon and click terminal new teminal.
+Its adavavtags are its convinient eliminating need to switch windows contantly the terminal stays focused on your current project directory and shell integration streamline your development process.
 
 7. File and Folder Management:
    - Explain how to create, open, and manage files and folders in VS Code. How can users navigate between different files and directories efficiently?
@@ -50,6 +57,11 @@ Answer the following questions based on your understanding of the installation a
 
 9. Debugging in VS Code:
    - Outline the steps to set up and start debugging a simple program in VS Code. What are some key debugging features available in VS Code?
+*Ensure you have the necessary language extension installed
+*click the run and debug button
+
+
+
 
 10. Using Source Control:
     - How can users integrate Git with VS Code for version control? Describe the process of initializing a repository, making commits, and pushing changes to GitHub.
